@@ -11,6 +11,6 @@ It can be used to find trend extrema - basically, it is an oscillator without fi
 ![Coppock histogram shown on the daily chart of EUR/USD with five notable trend change detections](https://github.com/EarnForex/Coppock/blob/main/README_Images/coppock-curve-indicator-mt4-mt5.png)
 
 You can view a detailed explanation of how the indicator works here:
-https://www.earnforex.com/metatrader-indicators/Coppock/
+https://www.earnforex.com/indicators/Coppock/
 
 Any contributions to the code are welcome!
